@@ -130,7 +130,7 @@ aside p {
 
 aside span {
   font-size: 0.75rem;
-  color: #e9e93a0;
+  color: whitesmoke;
 }
 
 @media (max-width: 768px) {
